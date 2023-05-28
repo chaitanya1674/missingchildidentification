@@ -1,0 +1,5 @@
+pip install Django==2.1.7 --user
+pip install pymysql --user
+pip install opencv-python --user
+pip install keras==2.3.1 --user
+pip install tensorflow==1.14.0  --user
